@@ -1,0 +1,5 @@
+CS,Computer Science Engineering
+IS,Information Science Engineering
+EC,Electronics and Communication Engineering
+ME,Mechanical Engineering
+CV,Civil Engineering

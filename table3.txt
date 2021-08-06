@@ -1,0 +1,28 @@
+18MAT11,Calculus and Linear Algebra,4
+18PHY12,Engineering Physics,4
+18PHY22,Engineering Physics,4
+18ELE13,Basic Electrical Engineering,3
+18ELE23,Basic Electrical Engineering,3
+18CIV14,Elements of Civil Engineering and Mechanics,3
+18CIV24,Elements of Civil Engineering and Mechanics,3
+18EGDL15,Engineering Graphics,3
+18EGDL25,Engineering Graphics,3
+18PHYL16,Engineering Physics Laboratory,1
+18PHYL26,Engineering Physics Laboratory,1
+18ELEL17,Basic Electrical Engineering Laboratory,1
+18ELEL27,Basic Electrical Engineering Laboratory,1
+18EGH18,Technical English I,1
+18MAT21,Advanced Calculus and Numerical Methods,4
+18CHE12,Engineering Chemistry,4
+18CHE22,Engineering Chemistry,4
+18CPS13,C Programming for Problem Solving,3
+18CPS23,C Programming for Problem Solving,3
+18ELN14,Basic Electronics,3
+18ELN24,Basic Electronics,3
+18ME15,Elements of Mechanical Engineering,3
+18ME25,Elements of Mechanical Engineering,3
+18CHEL16,Engineering Chemistry Laboratory,1
+18CHEL26,Engineering Chemistry Laboratory,1
+18CPL17,C Programming Laboratory,1
+18CPL27,C Programming Laboratory,1
+18EGH28,Technical English II,1
